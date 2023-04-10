@@ -12,6 +12,8 @@ A Convolutional Neural Network (CNN) Model is implemented and trained on the NEU
     <img width="420" height="1000" src = 'https://github.com/aviralchharia/Surface-Defect-Detection-in-Hot-Rolled-Steel-Strips/blob/master/CNN%20Model.png?raw=true'>
 </p>
 
+# Manufacturing-Defects
+
 The following Model Accuracy & Validation Loss Curves are obtained after 20 epochs.
 
 <p align="center">
@@ -29,4 +31,4 @@ The results obtained have high test set accuracy and are as as shown below.
 </p>
 
 The experimental results demonstrate that this method meets the robustness and accuracy requirements for metallic defect detection. Meanwhile, it can also be extended to other detection applications.
-# Manufacturing-Defects
+
